@@ -2,6 +2,10 @@
 
 > Hospital Management System Built with the MERN (MongoDB, Express , React.js and Node.js) and Redux.
 
+We have hosted this website on [Heroku](https://www.heroku.com).
+You can go to our website from [Here](https://hospital-managementapp.herokuapp.com/).
+
+
 ### Frontend
 
 - Frontend is built with ReactJs.
@@ -116,7 +120,7 @@ john@example.com (Admin)
 ```
 Sample Patient Login
 
-aayush@example.com (Patient)
+Aayush@example.com (Patient)
 123456
 
 ```
